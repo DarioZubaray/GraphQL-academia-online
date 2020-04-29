@@ -53,7 +53,7 @@ type Curso {
 
 enum Nivel {
     SIN_NIVEL
-    TODOS
+    ALL
     NOVATO
     MEDIUM
     EXPERTO
