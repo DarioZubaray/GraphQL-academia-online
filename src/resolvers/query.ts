@@ -28,7 +28,7 @@ const query: IResolvers = {
                     clases: 0,
                     time: 0.0,
                     logo: '',
-                    level: 'TODOS',
+                    level: 'SIN_NIVEL',
                     path: '',
                     teacher: '',
                     students: [],
